@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.ConcreteFactories.MySqlDatabase" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\ConcreteFactories\MySqlDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.ConcreteFactories.SqlDatabase" Collapsed="true">
+    <Position X="13.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\ConcreteFactories\SqlDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.ConcreteProducts.MySqlConnection" Collapsed="true">
+    <Position X="15.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\ConcreteProducts\MySqlConcrete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.ConcreteProducts.MySqlCommand" Collapsed="true">
+    <Position X="11" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\ConcreteProducts\MySqlConcrete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.ConcreteProducts.SqlConnection" Collapsed="true">
+    <Position X="13" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\ConcreteProducts\SqlConcrete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.ConcreteProducts.SqlCommand" Collapsed="true">
+    <Position X="8.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\ConcreteProducts\SqlConcrete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.Abstracts.Connection" Collapsed="true">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\Abstracts\AbstractProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.Abstracts.Command" Collapsed="true">
+    <Position X="10" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\Abstracts\AbstractProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.Abstracts.DatabaseFactory" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\Abstracts\DatabaseFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.Creater" Collapsed="true">
+    <Position X="18.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\Creater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.AbstractFactory.Example1.Creater&lt;T&gt;" Collapsed="true">
+    <Position X="20.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAA=</HashCode>
+      <FileName>UML\CreationalPatterns\AbstractFactory\Example1\Creater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

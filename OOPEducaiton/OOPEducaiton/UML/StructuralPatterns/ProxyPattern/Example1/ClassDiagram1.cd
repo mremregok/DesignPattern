@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.ProxyPattern.Example1.Banka" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>UML\StructuralPatterns\ProxyPattern\Example1\Banka.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.ProxyPattern.Example1.ProxyBanka" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAQAAIAAAAAAAIAAAAAAAAAAQAAAAQAA=</HashCode>
+      <FileName>UML\StructuralPatterns\ProxyPattern\Example1\ProxyBanka.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.ProxyPattern.Example1.ProxyPatternExample1Runner">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\ProxyPattern\Example1\ProxyPatternExample1Runner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOPEducaiton.UML.StructuralPatterns.ProxyPattern.Example1.IBanka">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>UML\StructuralPatterns\ProxyPattern\Example1\IBanka.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

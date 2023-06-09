@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example1.SoldierFactory">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example1\FlyweightFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example1.Soldier">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAIAIAIAAAAAAAAAAYAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example1\Soldier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example1.Private">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example1\Private.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example1.Sergeant">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example1\Sergeant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example1.SoldierType">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example1\SoldierType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

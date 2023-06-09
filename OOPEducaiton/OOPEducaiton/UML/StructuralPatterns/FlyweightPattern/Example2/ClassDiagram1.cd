@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example2.Rectangle" BaseTypeListCollapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example2\Flyweight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example2.Circle" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example2\Flyweight.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example2.ShapeObjectFactory">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAABAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example2\Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example2.IShape">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FlyweightPattern\Example2\Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,2 @@
+﻿IError adında bir interfacesimiz var ve bu interface kendinden 
+türeyen classlar için bir grup oluşturacak.

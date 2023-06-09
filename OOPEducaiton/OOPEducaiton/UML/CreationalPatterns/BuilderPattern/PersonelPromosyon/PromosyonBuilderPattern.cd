@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BuilderPattern.PersonelPromosyon.PromosyonBuilder">
+    <Position X="1.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAUAAEABAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\PersonelPromosyon\PromosyonBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.PersonelPromosyon.IscilerConcreteBuilder">
+    <Position X="3.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\PersonelPromosyon\IscilerConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.PersonelPromosyon.AmirlerConcreteBuilder">
+    <Position X="1.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\PersonelPromosyon\AmirlerConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.PersonelPromosyon.KadinlarConcreteBuilder">
+    <Position X="6.25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\PersonelPromosyon\KadinlarConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.PersonelPromosyon.PromosyonGonder&lt;T&gt;">
+    <Position X="4.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\PersonelPromosyon\PromosyonGonder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.PersonelPromosyon.Promosyon">
+    <Position X="6.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAAAAAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\PersonelPromosyon\Promosyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

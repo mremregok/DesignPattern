@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVnHCEDgiIIApbBh/VVNzp+jLSGaAsfL8aqUdU8IvYQOQ+5KaFbk6C78jS6qYBHTV6grtdmlhTBs17phPN4/DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emre_gok\\Desktop\\DesignPattern\\OOPEducaiton\\OOPEducaiton\\OOPEducaiton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emre_gok\\.nuget\\packages\\microsoft.extensions.objectpool\\7.0.5\\microsoft.extensions.objectpool.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

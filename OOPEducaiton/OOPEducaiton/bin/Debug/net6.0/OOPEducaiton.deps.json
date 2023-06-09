@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOPEducaiton/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.ObjectPool": "7.0.5"
+        },
+        "runtime": {
+          "OOPEducaiton.dll": {}
+        }
+      },
+      "Microsoft.Extensions.ObjectPool/7.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.523.17410"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPEducaiton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.ObjectPool/7.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uylNo8wuzAeqAJDyLDUM2JWSpTdCHTp11BXCsCO68LXnDjxwDM4PL6mJmho/+fJesWKdcJV5XB/Oa80wAJXnvQ==",
+      "path": "microsoft.extensions.objectpool/7.0.5",
+      "hashPath": "microsoft.extensions.objectpool.7.0.5.nupkg.sha512"
+    }
+  }
+}

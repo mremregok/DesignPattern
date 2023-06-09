@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Director">
+    <Position X="5.827" Y="1.131" Height="0.291" Width="0.736" />
+  </Comment>
+  <Comment CommentText="Product">
+    <Position X="8.077" Y="1.113" Height="0.291" Width="0.7" />
+  </Comment>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.ArabaUretim.IArabaBuilder">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABAAQAAAAEAAAAAEAAAAAAIAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\ArabaUretimi\IArabaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.ArabaUretim.OpelConcreteBuilder">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABAAAAAAAAAAAAAEAAAAAAIAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\ArabaUretimi\OpelConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.ArabaUretim.ToyotaConcreteBuilder">
+    <Position X="3" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABAAAAAAAAAAAAAEAAAAAAIAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\ArabaUretimi\ToyotaConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.ArabaUretim.BMWConcreteBuilder">
+    <Position X="5.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABAAAAAAAAAAAAAEAAAAAAIAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\ArabaUretimi\BMWConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.ArabaUretim.Araba">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAEAABAAAAAAAAAAAAAAAgAAACAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\ArabaUretimi\Araba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BuilderPattern.ArabaUretim.ArabaUretDirector">
+    <Position X="5.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BuilderPattern\ArabaUretimi\ArabaUret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

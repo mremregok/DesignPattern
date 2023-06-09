@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.CompositePattern.Asker">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAABAAQAAAwAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\CompositePattern\compositeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.CompositePattern.PersonelAsker">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\CompositePattern\compositeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.CompositePattern.KompoziteAsker">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAIAAAAAAABAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\CompositePattern\compositeExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OOPEducaiton.UML.StructuralPatterns.CompositePattern.Rutbeler">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAgAAAACAAIAAAAIAAAAAgAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\CompositePattern\compositeExample.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

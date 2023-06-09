@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.BuilderPattern.YemekUretimi.Asci">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\BuilderPattern\YemekUretimi\Asci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.BuilderPattern.YemekUretimi.EtliYemekConcreteBuilder">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\BuilderPattern\YemekUretimi\EtliYemekConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.BuilderPattern.YemekUretimi.SebzeliYemekConcreteBuilder">
+    <Position X="14.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\BuilderPattern\YemekUretimi\SebzeliYemekConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.BuilderPattern.YemekUretimi.SuluYemekConcreteBuilder">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\BuilderPattern\YemekUretimi\SuluYemekConcreteBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.BuilderPattern.YemekUretimi.Yemek">
+    <Position X="19" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAII=</HashCode>
+      <FileName>UML\CreationalPatterns\BuilderPattern\YemekUretimi\Yemek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.CreationalPatterns.BuilderPattern.YemekUretimi.YemekBuilder">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAACAEAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\BuilderPattern\YemekUretimi\YemekBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OOPEducaiton.UML.CreationalPatterns.BuilderPattern.YemekUretimi.YemekTipi">
+    <Position X="17" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\CreationalPatterns\BuilderPattern\YemekUretimi\YemekTipi.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

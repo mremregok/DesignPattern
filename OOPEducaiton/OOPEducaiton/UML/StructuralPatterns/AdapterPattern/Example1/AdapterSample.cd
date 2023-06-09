@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Bu iki sınıf aynı interface'den türeyip, bir grup oluşturmuşlar. Yani herhangi bir fonksiyonda ortak interface üzerinden değerlendirilebilirler.">
+    <Position X="2.113" Y="5.268" Height="0.732" Width="2.996" />
+  </Comment>
+  <Comment CommentText="Fax sınıfı, fax işleminden sorumludur. Ancak fax işleminin içerisinde oluşabilecek Errorlar için ErrorCode ve ErrorDescription gibi propertyleri de içermektedir. Yapı olarak aynı interfaceden türemedikleri için , aynı fonksiyonda interface üzerinden birlikte ele alınamazlar.">
+    <Position X="7.257" Y="4.774" Height="1.321" Width="2.757" />
+  </Comment>
+  <Comment CommentText="Adapte, olan sınıf">
+    <Position X="7.645" Y="2.195" Height="0.291" Width="1.152" />
+  </Comment>
+  <Comment CommentText="Adapte olmasını sağlayan sınıf, IError interface'den türeyip, Fax sınıfını dışarıdan alarak IError grubuna adapte eder.">
+    <Position X="5.25" Y="1.5" Height="0.831" Width="2.086" />
+  </Comment>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.AdapterPattern.DbError">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAEAgAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\AdapterPattern\AdapterSample.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.AdapterPattern.ServiceError">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAEAgAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\AdapterPattern\AdapterSample.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.AdapterPattern.Fax">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAEAABAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\AdapterPattern\AdapterSample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.AdapterPattern.FaxAdapter">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\AdapterPattern\AdapterSample.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OOPEducaiton.UML.StructuralPatterns.AdapterPattern.IError" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\AdapterPattern\AdapterSample.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
