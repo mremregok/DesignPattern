@@ -1,3 +1,3 @@
-﻿using OOPEducaiton.UML.StructuralPatterns.CompositePattern.Example2;
+﻿using OOPEducaiton.UML.StructuralPatterns.Decorator.Example1;
 
-CompositePatternExample2Runner runner = new CompositePatternExample2Runner();
+DecoratorExample1Runner runner = new DecoratorExample1Runner();

@@ -12,7 +12,7 @@ namespace OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example1
 
         public Private()
         {
-            // Intrinsict değerler set edilir
+            // Başlangıçta değerler set edilir
             UnitName = "SWAT";
             Guns = "Machine Gun";
             Health = "Good";
@@ -20,7 +20,7 @@ namespace OOPEducaiton.UML.StructuralPatterns.FlyweightPattern.Example1
 
         public override void MoveTo(int x, int y)
         {
-            // Extrinsic değerler set edilir ve bir işlem gerçekleştirilir
+            // Değerler set edilir ve bir işlem gerçekleştirilir
             X = x;
             Y = y;
             Console.WriteLine("Er ({0}:{1}) noktasına hareket etti", X, Y);

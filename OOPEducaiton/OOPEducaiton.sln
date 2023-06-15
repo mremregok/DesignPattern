@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPEducaiton", "OOPEducaito
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Doxygen", "Doxygen\Doxygen.shproj", "{E49C7F61-0694-42DF-9489-5C77F40CA63B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{319490B9-D20F-4B5B-B1C0-A5EA89C78D9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{319490B9-D20F-4B5B-B1C0-A5EA89C78D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorExample", "DecoratorExample\DecoratorExample.csproj", "{DDDA6558-B996-42CB-8D31-583E83CC63A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +25,10 @@ Global
 		{319490B9-D20F-4B5B-B1C0-A5EA89C78D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{319490B9-D20F-4B5B-B1C0-A5EA89C78D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{319490B9-D20F-4B5B-B1C0-A5EA89C78D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDA6558-B996-42CB-8D31-583E83CC63A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDA6558-B996-42CB-8D31-583E83CC63A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDA6558-B996-42CB-8D31-583E83CC63A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDA6558-B996-42CB-8D31-583E83CC63A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -57,7 +57,10 @@ namespace OOPEducaiton.UML.StructuralPatterns.FacadePattern
                 _banka.KrediyiKullan(m, talep);
                 Console.WriteLine("krediyi kullandırdık");
             }
-
+            else
+            {
+                Console.WriteLine("Kredi kullandırtmadık...");
+            }
         }
     }
 
