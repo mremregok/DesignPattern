@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dU/IzQvb0CXz4dMSGHT3nfTgwR+C2ZKM+/26we/MbjU+Y8ftGTRL7XOGpzulGaZSzxTuTUQCUmxMR6NL+HyeIQ==",
+  "dgSpecHash": "uktqjFcO05y0J+ZiOlExls1iD/BW8VgC9mF2wARgTkm9/AIb3prKAzn6nVTsnysMiRFs46/D39IRvwDk0/0OqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emre_gok\\Desktop\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\tutorial\\.NET\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emre_gok\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\emre_gok\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

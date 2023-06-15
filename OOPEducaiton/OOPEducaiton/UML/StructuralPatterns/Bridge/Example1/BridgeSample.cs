@@ -13,7 +13,7 @@
 			Implementer.OperationImplementation();
 		}
 	}
-
+	// Abstraction sınıfını değiştirmeden, genişlettiğimiz sınıf.
 	public class RefinedAbstraction : Abstraction
 	{
 		public RefinedAbstraction(Bridge bridge) : base(bridge) 
@@ -33,10 +33,6 @@
         {
 
         }
-        public override void Operation()
-		{
-			base.Operation();
-		}
 	}
 
 	public interface Bridge

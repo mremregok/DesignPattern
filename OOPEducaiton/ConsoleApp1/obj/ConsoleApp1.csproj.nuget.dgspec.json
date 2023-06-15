@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emre_gok\\Desktop\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\tutorial\\.NET\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emre_gok\\Desktop\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\tutorial\\.NET\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emre_gok\\Desktop\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\tutorial\\.NET\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\emre_gok\\Desktop\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\tutorial\\.NET\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\emre_gok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emre_gok\\Desktop\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\tutorial\\.NET\\DesignPattern\\OOPEducaiton\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

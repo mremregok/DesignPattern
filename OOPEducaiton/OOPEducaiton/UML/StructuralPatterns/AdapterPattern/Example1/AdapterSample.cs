@@ -62,13 +62,13 @@
         public string ErrorDescription { get; set; }
 
         //Fax yolla
-        void Send()
+        public void Send()
         {
+			Console.WriteLine("{0} {1} Fax hatasi alindi ", FaxErrorCode.ToString(), ErrorDescription);
+		}
 
-        }
-
-        //Fax al
-        void Get()
+		//Fax al
+		public void Get()
         {
 
         }
@@ -97,7 +97,7 @@
 
         public void SendMail()
         {
-            Console.WriteLine("{0} {1} Fax hatasi alindi ", ErrorNumber.ToString(), Description);
+            _fax.Send();
         }
     }
 

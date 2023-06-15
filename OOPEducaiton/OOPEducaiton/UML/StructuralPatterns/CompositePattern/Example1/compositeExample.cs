@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOPEducaiton.UML.StructuralPatterns.CompositePattern
+namespace OOPEducaiton.UML.StructuralPatterns.CompositePattern.Example1
 {
     /// 
 
@@ -73,7 +73,7 @@ namespace OOPEducaiton.UML.StructuralPatterns.CompositePattern
 
         public override void ExecuteOrder()
         {
-            Console.WriteLine(String.Format("{0} {1}", _rutbe, _isim));
+            Console.WriteLine(string.Format("{0} {1}", _rutbe, _isim));
         }
 
     }
@@ -111,7 +111,7 @@ namespace OOPEducaiton.UML.StructuralPatterns.CompositePattern
         // Önemli nokta. Composite tip içerisindeki bu operasyon, Composite tipe bağlı tüm Component'ler için gerçekleştirilir.
         public override void ExecuteOrder()
         {
-            Console.WriteLine(String.Format("{0} {1}", _rutbe, _isim));
+            Console.WriteLine(string.Format("{0} {1}", _rutbe, _isim));
 
             foreach (Asker soldier in _askerler)
             {
@@ -139,12 +139,11 @@ namespace OOPEducaiton.UML.StructuralPatterns.CompositePattern
             // Composite tipler oluşturulur.
             KompoziteAsker albayMehmet = new KompoziteAsker("Mehmet", Rutbeler.Albay);
             KompoziteAsker yarbaySevgi = new KompoziteAsker("Sevgi", Rutbeler.Yarbay);
-
+            albayMehmet.AskerEkle(yarbaySevgi);
+            albayMehmet.AskerEkle(new PersonelAsker("Özgür", Rutbeler.Yarbay));
 
             // Composite tipe bağlı primitive tipler oluşturulur.
             yarbaySevgi.AskerEkle(new PersonelAsker("Emre", Rutbeler.Yüzbaşı));
-            albayMehmet.AskerEkle(yarbaySevgi);
-            albayMehmet.AskerEkle(new PersonelAsker("Özgür", Rutbeler.Yarbay));
 
             // Root' un altına Composite nesne örneği eklenir.
             generalCagatay.AskerEkle(albayMehmet);
@@ -156,11 +155,11 @@ namespace OOPEducaiton.UML.StructuralPatterns.CompositePattern
             // root için ExecuteOrder operasyonu uygulanır. Buna göre root altındaki tüm nesneler için bu operasyon uygulanır
             Console.WriteLine("General -----");
             generalCagatay.ExecuteOrder();
-			Console.WriteLine("Yarbay -----");
+            Console.WriteLine("Yarbay -----");
             yarbaySevgi.ExecuteOrder();
-			Console.WriteLine("Albay -----");
+            Console.WriteLine("Albay -----");
             albayMehmet.ExecuteOrder();
-			Console.ReadLine();
+            Console.ReadLine();
 
         }
 

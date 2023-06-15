@@ -31,6 +31,11 @@ namespace OOPEducaiton.UML.StructuralPatterns.Bridge.Example2
 		{
 			this._banka = banka;
 		}
+
+		public override string Deposit(double amount)
+		{
+			return base.Deposit(amount);
+		}
 	}
 
 	// Uygulama sınıflarını değiştirmeden soyutlamayı genişletebilirsiniz.
@@ -43,7 +48,7 @@ namespace OOPEducaiton.UML.StructuralPatterns.Bridge.Example2
 		public override string Deposit(double amount)
 		{
 			return "Genişletilmiş soyut sınıfın operasyonu: \n" +
-				base._banka.DepositMoney(amount);
+				base._banka.DepositMoney(amount / 5);
 		}
 	}
 
