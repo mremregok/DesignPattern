@@ -1,3 +1,3 @@
-﻿using OOPEducaiton.UML.StructuralPatterns.Decorator.Example1;
+﻿using OOPEducaiton.UML.BehavioralPatterns.Command.Example2;
 
-DecoratorExample1Runner runner = new DecoratorExample1Runner();
+CommandExample2Runner runner = new CommandExample2Runner();
