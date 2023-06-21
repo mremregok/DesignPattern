@@ -4,35 +4,42 @@
     <Position X="3" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAAAAAAAAAAAAAEAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
-      <FileName>UML\StructuralPatterns\FacadePattern\FacedExample.cs</FileName>
+      <FileName>UML\StructuralPatterns\FacadePattern\Example1\FacedExample.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="OOPEducaiton.UML.StructuralPatterns.FacadePattern.Banka">
     <Position X="7" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
-      <FileName>UML\StructuralPatterns\FacadePattern\FacedExample.cs</FileName>
+      <FileName>UML\StructuralPatterns\FacadePattern\Example1\FacedExample.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="OOPEducaiton.UML.StructuralPatterns.FacadePattern.Kredi">
     <Position X="4.75" Y="5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>UML\StructuralPatterns\FacadePattern\FacedExample.cs</FileName>
+      <FileName>UML\StructuralPatterns\FacadePattern\Example1\FacedExample.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="OOPEducaiton.UML.StructuralPatterns.FacadePattern.MerkezBanka">
     <Position X="1.25" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>UML\StructuralPatterns\FacadePattern\FacedExample.cs</FileName>
+      <FileName>UML\StructuralPatterns\FacadePattern\Example1\FacedExample.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="OOPEducaiton.UML.StructuralPatterns.FacadePattern.Facade">
     <Position X="3" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAQAAAAAAAABAAAAAAAAAAAIAAAAAAAAABAA=</HashCode>
-      <FileName>UML\StructuralPatterns\FacadePattern\FacedExample.cs</FileName>
+      <FileName>UML\StructuralPatterns\FacadePattern\Example1\FacedExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.StructuralPatterns.FacadePattern.FacadeExample1Runner">
+    <Position X="6.5" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\StructuralPatterns\FacadePattern\Example1\FacedExample.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

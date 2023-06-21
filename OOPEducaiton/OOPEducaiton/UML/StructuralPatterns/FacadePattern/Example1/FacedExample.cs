@@ -47,7 +47,6 @@ namespace OOPEducaiton.UML.StructuralPatterns.FacadePattern
             _banka = new Banka();
             _merkezBanka = new MerkezBanka();
             _kredi = new Kredi();
-
         }
 
         public void KrediKullan(Musteri m, decimal talep)
@@ -71,6 +70,8 @@ namespace OOPEducaiton.UML.StructuralPatterns.FacadePattern
             Facade facade = new Facade();
 
             facade.KrediKullan(new Musteri(), 1);
+
+            Console.ReadKey();
         }
     }
 }
