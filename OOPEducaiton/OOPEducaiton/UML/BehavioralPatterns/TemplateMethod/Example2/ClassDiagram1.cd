@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.TemplateMethod.Example2.Alisveris">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAABAAABAQAAAAAAACAAAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\TemplateMethod\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.TemplateMethod.Example2.Televizyon">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\TemplateMethod\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.TemplateMethod.Example2.Buzdolabi">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\TemplateMethod\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OOPEducaiton.UML.BehavioralPatterns.TemplateMethod.Example2.OdemeTipi">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\TemplateMethod\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

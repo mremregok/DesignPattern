@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookMethod.Example1.Game">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQABAAAAAAAgAAAAAAAAgAAAAAAQAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookMethod\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookMethod.Example1.ShadowWarrior">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQABAAAAAAAgAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookMethod\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookMethod.Example1.BattleWizard">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookMethod\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookMethod.Example1.HookMethodExample1Runner">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookMethod\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

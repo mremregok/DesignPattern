@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Iterator.Example2.PersonelAggregate" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEACAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Iterator\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Iterator.Example2.PersonelIterator" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAAABACAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Iterator\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Iterator.Example2.IteratorExample2Runner">
+    <Position X="9.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Iterator\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="OOPEducaiton.UML.BehavioralPatterns.Iterator.Example2.Personel">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Iterator\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="OOPEducaiton.UML.BehavioralPatterns.Iterator.Example2.IAggregate">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Iterator\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPEducaiton.UML.BehavioralPatterns.Iterator.Example2.IIterator">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Iterator\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

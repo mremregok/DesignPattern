@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookClasses.Example3.Hook">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookClasses\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookClasses.Example3.OnboardingHook">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookClasses\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookClasses.Example3.PurchaseHook">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookClasses\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookClasses.Example3.CartAbandonmentHook">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookClasses\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookClasses.Example3.BirthdayHook">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookClasses\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookClasses.Example3.LoyaltyHook">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookClasses\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.HookClasses.Example3.HookClassesExample3Runner">
+    <Position X="17.75" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\HookClasses\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

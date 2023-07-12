@@ -1,3 +1,3 @@
-﻿using OOPEducaiton.UML.StructuralPatterns.ProxyPattern.Example2;
+﻿using OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3;
 
-ProxyExample2Runner runner = new ProxyExample2Runner();
+VisitorExample3Runner.Main();

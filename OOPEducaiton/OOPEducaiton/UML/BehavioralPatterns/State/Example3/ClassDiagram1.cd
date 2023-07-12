@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example3.MusicPlayerState">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example3.MusicPlayer">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAgAAAAAAAAAAAAAACgAAAEoAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example3.Play">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAUAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example3.Stop">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAUAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example3.StateExample3Runner" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

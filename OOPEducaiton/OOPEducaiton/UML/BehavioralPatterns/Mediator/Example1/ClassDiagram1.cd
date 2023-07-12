@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Mediator.Example1.ChatMediator" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Mediator\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Mediator.Example1.ChatUser" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAACAEAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Mediator\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Mediator.Example1.MediatorExample1Runner">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Mediator\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOPEducaiton.UML.BehavioralPatterns.Mediator.Example1.IChatMediator">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Mediator\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPEducaiton.UML.BehavioralPatterns.Mediator.Example1.IUser">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Mediator\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

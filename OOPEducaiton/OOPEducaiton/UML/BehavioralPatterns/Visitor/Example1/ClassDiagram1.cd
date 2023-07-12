@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example1.MuseumExhibit">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example1.ExhibitA">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example1.ExhibitB">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example1.ExhibitC">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example1.AdultVisitor" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example1.ChildVisitor" BaseTypeListCollapsed="true">
+    <Position X="17" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example1.IMuseumVisitor">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example1\Example1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

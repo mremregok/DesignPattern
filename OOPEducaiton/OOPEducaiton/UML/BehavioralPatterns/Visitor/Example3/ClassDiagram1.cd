@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3.JSONExportVisitor" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3.XMLExportVisitor" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3.Dot" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3.Circle" BaseTypeListCollapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAMAAAAAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3.Rectangle" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAABIAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3.IShapeVisitor">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OOPEducaiton.UML.BehavioralPatterns.Visitor.Example3.IShape">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\Visitor\Example3\Example3.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

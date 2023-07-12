@@ -105,10 +105,13 @@ namespace OOPEducaiton.UML.BehavioralPatterns.Command.Example2
         public CommandExample2Runner()
         {
 			// Örnek kullanım
-			BankAccount account = new BankAccount { AccountNumber = "12345678", Balance = 1000 };
+			BankAccount account = new BankAccount { AccountNumber = "12345678", Balance = 0 };
 			ATM atm = new ATM();
-			ICommand command = new WithdrawCommand(account, 500);
-			atm.SetCommand(command);
+			ICommand withdraw = new WithdrawCommand(account, 500);
+			ICommand deposit = new DepositCommand(account, 1000);
+			atm.SetCommand(deposit);
+			atm.ExecuteTransaction();
+			atm.SetCommand(withdraw);
 			atm.ExecuteTransaction();
 			atm.ExecuteTransaction();
 			atm.ExecuteTransaction();

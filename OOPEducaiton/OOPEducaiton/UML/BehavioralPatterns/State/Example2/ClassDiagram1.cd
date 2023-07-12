@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example2.ATMState">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example2.ATMMachine">
+    <Position X="16.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAAAAAABAAAAAIAAAIEAAgABAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example2.NoCard">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example2.HasCard">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example2.HasPin">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example2.NoCash">
+    <Position X="14.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgABAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPEducaiton.UML.BehavioralPatterns.State.Example2.StateExample2Runner">
+    <Position X="16.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>UML\BehavioralPatterns\State\Example2\Example2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
